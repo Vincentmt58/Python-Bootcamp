@@ -1,4 +1,4 @@
-# Formatting strings
+# Formatting strings (f-strings)
 
 first_name = 'John'
 last_name = 'Williams'
